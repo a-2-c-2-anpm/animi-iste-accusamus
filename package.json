@@ -1,18 +1,66 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@a-2-c-2-anpm/animi-iste-accusamus",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "scripts": {},
+  "author": "a-2-c-2-a",
   "license": "MIT",
+  "dependencies": {
+    "@a-2-c-2-anpm/alias-ducimus-sit": "^1.0.0",
+    "@a-2-c-2-anpm/atque-nemo-accusantium": "^1.0.0",
+    "@a-2-c-2-anpm/distinctio-quibusdam-culpa": "^1.0.0",
+    "@a-2-c-2-anpm/eligendi-praesentium-hic": "^1.0.0",
+    "@a-2-c-2-anpm/enim-amet-voluptatem": "^1.0.0",
+    "@a-2-c-2-anpm/error-dolorem-a": "^1.0.0",
+    "@a-2-c-2-anpm/excepturi-natus-facere": "^1.0.0",
+    "@a-2-c-2-anpm/expedita-recusandae-aut": "^1.0.0",
+    "@a-2-c-2-anpm/fugit-impedit-quae": "^1.0.0",
+    "@a-2-c-2-anpm/hic-maiores-accusantium": "^1.0.0",
+    "@a-2-c-2-anpm/laborum-exercitationem-quis": "^1.0.0",
+    "@a-2-c-2-anpm/laudantium-dolor-perspiciatis": "^1.0.0",
+    "@a-2-c-2-anpm/maiores-quis-dignissimos": "^1.0.0",
+    "@a-2-c-2-anpm/nam-eaque-occaecati": "^1.0.0",
+    "@a-2-c-2-anpm/neque-culpa-culpa": "^1.0.0",
+    "@a-2-c-2-anpm/neque-iste-eum": "^1.0.0",
+    "@a-2-c-2-anpm/nobis-similique-magni": "^1.0.0",
+    "@a-2-c-2-anpm/officia-tempore-ipsa": "^1.0.0",
+    "@a-2-c-2-anpm/perferendis-qui-suscipit": "^1.0.0",
+    "@a-2-c-2-anpm/placeat-suscipit-cumque": "^1.0.0",
+    "@a-2-c-2-anpm/quo-quia-expedita": "^1.0.0",
+    "@a-2-c-2-anpm/quos-voluptates-excepturi": "^1.0.0",
+    "@a-2-c-2-anpm/saepe-praesentium-iusto": "^1.0.0",
+    "@a-2-c-2-anpm/sint-ipsa-atque": "^1.0.0",
+    "@a-2-c-2-anpm/vitae-ad-molestiae": "^1.0.0",
+    "@ajhgwdjnpm/quas-mollitia-aspernatur-reprehenderit": "^1.0.0",
+    "calculator-3rd": "^1.0.12",
+    "mi-dex-func-3": "^1.0.0",
+    "vnhat-button-component": "^1.0.0",
+    "vnhat-forminput-component": "^1.0.1"
+  },
+  "keywords": [
+    "installer",
+    "string",
+    "electron",
+    "arraybuffer",
+    "es2017",
+    "accessibility",
+    "nope",
+    "classname",
+    "findLastIndex",
+    "view",
+    "packages",
+    "RxJS",
+    "Microsoft",
+    "log",
+    "Array.prototype.flat"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/a-2-c-2-anpm/animi-iste-accusamus.git"
   },
-  "dependencies": {
-    
+  "homepage": "https://github.com/a-2-c-2-anpm/animi-iste-accusamus/#readme",
+  "bugs": {
+    "url": "https://github.com/a-2-c-2-anpm/animi-iste-accusamus/issues"
   }
 }
